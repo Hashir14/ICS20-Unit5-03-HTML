@@ -1,0 +1,30 @@
+body {
+  background-color: lightblue;
+}
+
+.title {
+  text-align: center;
+  font-family: brushscriptmt, cursive;
+  background-color: yellow;
+  color: brown;
+  font-size: 500%;
+  text-decoration: underline;
+}
+
+.text {
+  font-display: arial, sans-serif;
+  font-size: 250%;
+  color: yellow;
+  font-weight: bold;
+}
+
+#submit {
+  height: 50px;
+  width: 80px;
+}
+
+#box {
+  height: 50px;
+  width: 500px;
+  font-size: 30px
+}
